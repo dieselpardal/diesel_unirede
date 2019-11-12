@@ -108,15 +108,15 @@ detail        | data         | String       | A valid phone number or email.|
 
 ---
 
-###OBJETIVO
+### OBJETIVO
 O desafio de trabalho de Projeto é que permite a controlar os dados e a funcionalidade de todos os componentes,
 frameworks e variáveis ao acordo de desafio.
 
-###DESENVOLVIMENTO
+### DESENVOLVIMENTO
 Entendimento e execução do escopo, organização, execução de códigos,
 uso de técnicas de programação, padrões de projeto e nível de documentação.
 
-###INSTALAÇÃO
+### INSTALAÇÃO
 
 1) Plartaforma IDE: PyCharm Python Pure versão 2018.3, atualiza à 29 de Janeiro de 2019.
 2) Chalice :
@@ -158,5 +158,5 @@ para Executar:
 $ chalice deploy
 ```
 
-###fonte:
+### FONTE
 https://github.com/jakubroztocil/httpie/issues/500
