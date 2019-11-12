@@ -4,7 +4,7 @@ PROJETO DE DESAFIO DIESEL
 - dieselpardal@gmail.com
 - whatsapp 51991453527
 
-###VERSÃO
+### VERSÃO
 - Python: 3.7.2
 - Brew: Homebrew 2.0.3
 - virtualenv: 16.7.7
